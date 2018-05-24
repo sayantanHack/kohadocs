@@ -84,7 +84,7 @@ the Documentation Team, but that doesn't mean we can't all
 participate in making the best manual possible.
 
 
-_`কোহা ম্যানুয়াল <http://manual.koha-community.org/>`__ ডকুমেন্টেশন দল দ্বারা পরিচালিত হয়, কিন্তু এর অর্থ এই নয় যে আমরা সর্বোত্তম ম্যানুয়ালকে সম্ভাব্য তৈরি করতে অংশগ্রহণ করতে পারি না।
+`কোহা ম্যানুয়াল <http://manual.koha-community.org/>`__ ডকুমেন্টেশন দল দ্বারা পরিচালিত হয়, কিন্তু এর অর্থ এই নয় যে আমরা সর্বোত্তম ম্যানুয়ালকে সম্ভাব্য তৈরি করতে অংশগ্রহণ করতে পারি না।
 
 The manual is stored in git at:
 http://git.koha-community.org/gitweb/?p=kohadocs.git;a=summary

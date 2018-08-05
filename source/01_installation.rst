@@ -1,6 +1,7 @@
 .. include:: images.rst
 
-Introduction to the Koha Installation Process
+Introduction to the Koha Installation Process (
+Koha ইনস্টলেশন প্রক্রিয়া ভূমিকা )
 ================================================
 
 This is the Koha Installation Manual
@@ -12,7 +13,16 @@ The Koha Library Management System installation process uses 2 tools:
 
 This documentation will outline both of these tools.
 
-What is the Koha web installer?
+এই কোহা ইনস্টলেশন ম্যানুয়াল হয়
+
+কোহা লাইব্রেরি ম্যানেজমেন্ট সিস্টেম ইনস্টলেশন প্রক্রিয়াটি 2 টি সরঞ্জাম ব্যবহার করে:
+
+* ওয়েব ইনস্টলার
+* অনবোর্ডিং টুল
+
+এই ডকুমেন্টেশন উভয় এই সরঞ্জাম উভয় রূপরেখা হবে।
+
+What is the Koha web installer? (কোহা ওয়েব ইনস্টলার কি? )
 _________________________________
 The web installer sets up the database tables that store the all the data you work with in Koha, for example the library branches, patrons and items.
 
@@ -20,6 +30,11 @@ The web installer starts with a login screen for you to enter the database admin
 
 The installer will then create the tables and fill the tables with data. The next step in the process is to set up a few mandatory first use settings, via the Onboarding tool.
 
+ওয়েব ইনস্টলার ডাটাবেস সারণী সেট আপ করে যা আপনি Koha দিয়ে কাজ করেন এমন সমস্ত তথ্য সংরক্ষণ করে, উদাহরণস্বরূপ লাইব্রেরির শাখা, পৃষ্ঠপোষকতা এবং আইটেমগুলি।
+
+ডাটাবেস অ্যাডমিনিস্ট্রেটিভ অ্যাকাউন্টের শংসাপত্রগুলি প্রবেশ করার জন্য ওয়েব ইনস্টলার আপনার লগইন স্ক্রীনের সাথে শুরু হয়।
+
+ইনস্টলার তারপর টেবিল তৈরি করবে এবং ডাটা সহ টেবিলগুলি পূরণ করবে। প্রক্রিয়াটিতে পরবর্তী ধাপ হল অনবোর্ডিং টুলের মাধ্যমে কয়েকটি বাধ্যতামূলক প্রথম ব্যবহারের সেটিংস সেট করা।
 
 What is the Koha Onboarding tool?
 _________________________________
